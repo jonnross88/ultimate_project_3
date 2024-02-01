@@ -12,3 +12,4 @@ iPython
 scikit-learn
 hvplot
 panel
+pyarrow
