@@ -13,3 +13,7 @@ scikit-learn
 hvplot
 panel
 pyarrow
+colorcet
+statsmodels
+pmdarima
+sktime
